@@ -10,6 +10,6 @@ I have around 16+ years of work experience with small, mid, and big enterprises.
 4. Desktop on-premises application - Windows, C#.
 5. Office Automation - Microsoft Excel.
 6. Mobile solutions - Android and iOs.
-7. Supporting development team with CICD, build and release process - bitbucket, bamboo, Github.
+7. CICD, build and release process - bitbucket, bamboo, Github,GitActions,Azure DevPos
 -----------------------------------------------------------------------------------------------------------------------------------
-___PHP, Shopify, Magento, MySql, .NET, ASP.NET Core, Excel, Java, Angular, bitbucket, bamboo, Github.___
+___PHP, Shopify, Magento, MySql, .NET, ASP.NET Core, Excel, Java, Angular, bitbucket, bamboo, Github, Azure Devpos___
