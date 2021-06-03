@@ -2,7 +2,7 @@
  [![Linkedin Badge](https://img.shields.io/badge/-sendilkumarmv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sendilkumarmv/)](https://www.linkedin.com/in/sendilkumarmv/) 
 [![Gmail Badge](https://img.shields.io/badge/-sendilkumarmurugaiah-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sendilkumarmurugaiah@gmail.com)](mailto:sendilkumarmurugaiah@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@sendilkumar_murugaiah-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sendilkumar_murugaiah/)](https://instagram.com/sendilkumar_murugaiah) 
-[![Facebook Badge](https://img.shields.io/badge/-sendilkumar-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
+<!-- [![Facebook Badge](https://img.shields.io/badge/-sendilkumar-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351) -->
 
 ### Full Stack Web Developer ###
 
@@ -25,6 +25,8 @@ ___PHP, Shopify, Magento, MySql, .NET, ASP.NET Core, Excel, Java, Angular, bitbu
 ### Softwares:
 
 [![Sendilkumar's github stats](https://github-readme-stats.vercel.app/api?username=sendilkumarmv&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sendilkumarmv&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" />
 
 <div align="right">
   
