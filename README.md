@@ -1,9 +1,9 @@
-### Full Stack Web Developer
+### Full Stack Web Developer ###
 
 Helping business by providing software solutions.
+
 I have around 16+ years of work experience with small, mid, and big enterprises.
-----
-I am expert in 
+ 
 1. Web-based solutions for enterprises - ASP.NET, Angular 8, SQL Server.
 2. Web sites for business promotions - PHP, MySql.
 3. eCommerce solution - Magento, Shopify, Asp.NET.
