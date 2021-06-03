@@ -16,9 +16,11 @@ I have around 16+ years of work experience with small, mid, and big enterprises.
 -----------------------------------------------------------------------------------------------------------------------------------
 ___PHP, Shopify, Magento, MySql, .NET, ASP.NET Core, Excel, Java, Angular, bitbucket, bamboo, Github, Azure DevOps___
 
-### Tools
+### Work Experience ###
 
-### Softwares:
+### Education ###
+
+### Tools & Softwares ###
 
 #### 🗓 My GitHub Card
 <div>
@@ -41,6 +43,10 @@ Connect with me:
 
 [<img align="left" alt="SM  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/sendilkumar_murugaiah)
 
+[<img align="left" alt="M   | Medium"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />](https://medium.com/@sendilkumarmurugaiah)
+
+[<img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" width="22px" />](mailto:sendilkumarmurugaiah@gmail.com)
+ 
 </div>
 <br/>
 
