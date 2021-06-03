@@ -21,14 +21,33 @@ ___PHP, Shopify, Magento, MySql, .NET, ASP.NET Core, Excel, Java, Angular, bitbu
 ### Softwares:
 
 #### 🗓 My GitHub Card
-<img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=sendilkumarmv&theme=graywhite&show_icons=true&include_all_commits=true" />
-
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=sendilkumarmv&theme=graywhite&show_icons=true&locale=en&layout=compact"/>
+<div>
+<img alt="Github Stats" height="150" width="400" src="https://github-readme-stats.vercel.app/api?username=sendilkumarmv&theme=graywhite&show_icons=true&include_all_commits=true" />
+<img alt="Github Stats" height="150" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=sendilkumarmv&theme=graywhite&show_icons=true&locale=en&layout=compact"/></div>
   
+
+ 
+
+
+<div>
+ 
+Connect with me:
+ 
+[<img align="left" alt="SM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/msendilkumar3)
+
+[<img align="left" alt="SM  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/sendilkumarmv)
+ 
+[<img align="left" alt="SM - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/profile.php?id=sendilkumar_murugaiah)
+
+[<img align="left" alt="SM  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/sendilkumar_murugaiah)
+
+</div>
+<br/>
+
+
+-----------------------------------------------------------------------------------------
+<div align="right">
+ 
 ![ViewCount](https://views.whatilearened.today/views/github/sendilkumarmv/sendilkumarmv.svg)
- [![Twitter Badge](https://img.shields.io/badge/-@msendilkumar3-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/msendilkumar3)](https://twitter.com/msendilkumar3)
- [![Linkedin Badge](https://img.shields.io/badge/-sendilkumarmv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sendilkumarmv/)](https://www.linkedin.com/in/sendilkumarmv/) 
-[![Gmail Badge](https://img.shields.io/badge/-sendilkumarmurugaiah-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sendilkumarmurugaiah@gmail.com)](mailto:sendilkumarmurugaiah@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@sendilkumar_murugaiah-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sendilkumar_murugaiah/)](https://instagram.com/sendilkumar_murugaiah) 
-
-
+ 
+</div>
