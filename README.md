@@ -1,5 +1,6 @@
 # Hi! I am Sendilkumar #
 
+
 ### Full Stack Web Developer ###
 
 Helping business by providing software solutions.
@@ -23,22 +24,32 @@ __Work Experience__
  <tr>
  <td>
 <img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/mph.jpg" width="150px" height="80px"/></td><td>
- 
 <img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/dp.png" width="150px" height="80px"/></td><td>
-
 <img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/cts.svg" width="150px" height="80px"/></td><td>
- 
 <img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/itc.png" width="150px" height="80px"/></td><td>
- 
 <img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/tr.jpg" width="150px" height="80px"/></td>
 </tr>
+ <tr>
+  <td>Working as <br/><b>Dev Project Lead</b></td>
+  <td>Worked as <br/><b>Programmer Analyst</b></td>
+  <td>Worked as <br/><b>Manager Projects</b></td>
+  <td>Worked as <br/><b>Lead Consultant</b></td>
+  <td>Worked as <br/><b>Sr Software Engineer</b></td>
+ </tr>
+ <tr>
+  <td>From June 2018</td>
+  <td>From Sep 2017 - May 2018</td>
+  <td>From Jan 2017 - Jul 2017</td>
+  <td>From Oct 2007 - Jan 2017</td>
+  <td>From Mar 2005 - Sep 2007</td>
+ </tr>
 </table>
 
 </div>
 
 __Education__
 
-- __Master of Computer Applications,__ 1997-2000. National Engineering College Tamilnadu.
+- __Master of Computer Applications,__ 1997-2000. National Engineering College, Tamilnadu.
 - __Bachelor of Science in Physics,__ 1994-1997, Sivanthi Aditanar College, Tamilnadu.
 
 __Tools & Softwares__
@@ -62,7 +73,9 @@ __GitHub__
 <div>
  
 <img alt="Github Stats" height="150" width="400" src="https://github-readme-stats.vercel.app/api?username=sendilkumarmv&theme=graywhite&show_icons=true&include_all_commits=true" />
-<img alt="Github Stats" height="150" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=sendilkumarmv&theme=graywhite&show_icons=true&locale=en&layout=compact"/></div>
+<img alt="Github Stats" height="150" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=sendilkumarmv&theme=graywhite&show_icons=true&locale=en&layout=compact"/>
+
+</div>
 
 __Major Clients__
 
@@ -84,12 +97,10 @@ __Major Clients__
   
 </div>
 
-<div>&nbsp;&nbsp;</div>
 
-
-
---------------------------------------------------------------
 __Connect with me:__
+
+[<img align="left" alt="githug" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />](https://github.com/sendilkumarmv)
  
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/msendilkumar3)
 
