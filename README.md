@@ -1,4 +1,4 @@
-Hi! I am Sendilkumar
+# Hi! I am Sendilkumar #
 
 ### Full Stack Web Developer ###
 
@@ -29,6 +29,8 @@ ___PHP, Shopify, Magento, MySql, .NET, ASP.NET Core, Excel, Java, Angular, bitbu
 <img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/itc.png" width="150px" height="80px"/>
  
 <img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/tr.jpg" width="150px" height="80px"/>
+ 
+
 
 </div>
 
@@ -60,7 +62,9 @@ Connect with me:
 
 [<img align="left" alt="M   | Medium"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />](https://medium.com/@sendilkumarmurugaiah)
 
-[<img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" width="22px" />](mailto:sendilkumarmurugaiah@gmail.com)
+[<img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:sendilkumarmurugaiah@gmail.com)
+ 
+[<img align="left" alt="yahoo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/yahoo.svg"/>](mailto:sendilkumarm@yahoo.com)
  
 </div>
 <br/>
