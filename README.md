@@ -21,7 +21,7 @@ __Work Experience__
 
 <table>
  <tr>
-  <td>
+ <td>
 <img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/mph.jpg" width="150px" height="80px"/></td><td>
  
 <img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/dp.png" width="150px" height="80px"/></td><td>
@@ -31,8 +31,8 @@ __Work Experience__
 <img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/itc.png" width="150px" height="80px"/></td><td>
  
 <img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/tr.jpg" width="150px" height="80px"/></td>
- </tr>
- </table>
+</tr>
+</table>
 
 </div>
 
@@ -64,7 +64,31 @@ __GitHub__
 <img alt="Github Stats" height="150" width="400" src="https://github-readme-stats.vercel.app/api?username=sendilkumarmv&theme=graywhite&show_icons=true&include_all_commits=true" />
 <img alt="Github Stats" height="150" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=sendilkumarmv&theme=graywhite&show_icons=true&locale=en&layout=compact"/></div>
 
+__Major Clients__
 
+<div>
+ 
+ <img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/schwab.png" width="100px" height="100px" />
+ 
+ <img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/aicpa.jpg" width="200px" height="75px" />
+ 
+ <img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/philips.png"  width="100px" height="100px" />
+ 
+ <img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/ecc.png" width="200px" height="75px" />
+ 
+ <img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/iPSL.png" width="200px" height="40px" />
+ 
+ <img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/danskebank.png" width="200px" height="40px" />
+ 
+ <img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/viacom.png" width="250px" height="100px" />
+  
+</div>
+
+<div>&nbsp;&nbsp;</div>
+
+
+
+--------------------------------------------------------------
 __Connect with me:__
  
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/msendilkumar3)
@@ -80,8 +104,11 @@ __Connect with me:__
 [<img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:sendilkumarmurugaiah@gmail.com)
  
 [<img align="left" alt="yahoo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/yahoo.svg"/>](mailto:sendilkumarm@yahoo.com)
+
+[<img align="left" alt="whatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg"/>](mailto:sendilkumarm@yahoo.com)
  
 </div>
+
 
 
 <div align="right">
