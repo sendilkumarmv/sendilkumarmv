@@ -38,10 +38,10 @@ __Work Experience__
  </tr>
  <tr>
   <td>From June 2018</td>
-  <td>From Sep 2017 - May 2018</td>
-  <td>From Jan 2017 - Jul 2017</td>
-  <td>From Oct 2007 - Jan 2017</td>
-  <td>From Mar 2005 - Sep 2007</td>
+  <td>Sep 2017 - May 2018</td>
+  <td>Jan 2017 - Jul 2017</td>
+  <td>Oct 2007 - Jan 2017</td>
+  <td>Mar 2005 - Sep 2007</td>
  </tr>
 </table>
 
