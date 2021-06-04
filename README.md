@@ -94,6 +94,8 @@ __Major Clients__
  <img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/danskebank.png" width="200px" height="40px" />
  
  <img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/viacom.png" width="250px" height="100px" />
+ 
+ <img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/santander.png" width="200px" height="100px" />
   
 </div>
 
