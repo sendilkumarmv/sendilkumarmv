@@ -73,7 +73,7 @@ __GitHub__
 <div>
  
 <img alt="Github Stats" height="150" width="400" src="https://github-readme-stats.vercel.app/api?username=sendilkumarmv&theme=graywhite&show_icons=true&include_all_commits=true" />
-<img alt="Github Stats" height="150" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=sendilkumarmv&theme=graywhite&show_icons=true&locale=en&layout=compact"/>
+<img alt="Github Stats" height="150" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=sendilkumarmv&theme=graywhite&show_icons=true&locale=en&layout=compact&include_all_commits=true"/>
 
 </div>
 
@@ -99,30 +99,27 @@ __Major Clients__
   
 </div>
 
-
-__Connect with me:__
+---
 
 [<img align="left" alt="githug" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />](https://github.com/sendilkumarmv)
  
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/msendilkumar3)
+[<img title="Follow me @msendilkumar3 on twitter" align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/msendilkumar3)
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/sendilkumarmv)
  
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/profile.php?id=sendilkumar_murugaiah)
 
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/sendilkumar_murugaiah)
+[<img title="Follow me sendilkumar_murugaiah on instagram" align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/sendilkumar_murugaiah)
 
 [<img align="left" alt="Medium"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />](https://medium.com/@sendilkumarmurugaiah)
 
-[<img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:sendilkumarmurugaiah@gmail.com)
+[<img title="send email sendilkumarmurugaiah@gmail.com" align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:sendilkumarmurugaiah@gmail.com)
  
-[<img align="left" alt="yahoo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/yahoo.svg"/>](mailto:sendilkumarm@yahoo.com)
+[<img title="send email sendilkumarm@yahoo.com" align="left" alt="yahoo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/yahoo.svg"/>](mailto:sendilkumarm@yahoo.com)
 
-[<img align="left" alt="whatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg"/>](https://github.com/sendilkumarmv/sendilkumarmv/blob/main/whatsapp/card.jpeg)
+[<img title="Click and QR Scan to whatsapp me" align="left" alt="whatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg"/>](https://github.com/sendilkumarmv/sendilkumarmv/blob/main/whatsapp/card.jpeg)
  
 </div>
-
-
 
 <div align="right">
  
