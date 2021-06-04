@@ -116,7 +116,7 @@ __Connect with me:__
  
 [<img align="left" alt="yahoo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/yahoo.svg"/>](mailto:sendilkumarm@yahoo.com)
 
-[<img align="left" alt="whatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg"/>](mailto:sendilkumarm@yahoo.com)
+[<img align="left" alt="whatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg"/>](https://github.com/sendilkumarmv/sendilkumarmv/blob/main/whatsapp/card.jpeg)
  
 </div>
 
