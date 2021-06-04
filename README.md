@@ -19,20 +19,27 @@ __Work Experience__
 
 <div>
 
-<img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/mph.jpg" width="150px" height="80px"/>
+<table>
+ <tr>
+  <td>
+<img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/mph.jpg" width="150px" height="80px"/></td><td>
  
-<img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/dp.png" width="150px" height="80px"/>
+<img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/dp.png" width="150px" height="80px"/></td><td>
 
-<img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/cts.svg" width="150px" height="80px"/>
+<img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/cts.svg" width="150px" height="80px"/></td><td>
  
-<img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/itc.png" width="150px" height="80px"/>
+<img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/itc.png" width="150px" height="80px"/></td><td>
  
-<img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/tr.jpg" width="150px" height="80px"/>
-
+<img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/tr.jpg" width="150px" height="80px"/></td>
+ </tr>
+ </table>
 
 </div>
 
 __Education__
+
+- __Master of Computer Applications,__ 1997-2000. National Engineering College Tamilnadu.
+- __Bachelor of Science in Physics,__ 1994-1997, Sivanthi Aditanar College, Tamilnadu.
 
 __Tools & Softwares__
 
