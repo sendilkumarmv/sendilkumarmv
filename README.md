@@ -101,6 +101,16 @@ __Major Clients__
 
 ---
 
+ __Geographic location experience__
+ 
+ - Denmark 
+ - UK
+ - USA
+ - Netherlands
+ - Norway
+ 
+---
+
 [<img align="left" alt="githug" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />](https://github.com/sendilkumarmv)
  
 [<img title="Follow me @msendilkumar3 on twitter" align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/msendilkumar3)
@@ -120,6 +130,7 @@ __Major Clients__
 [<img title="Click and QR Scan to whatsapp me" align="left" alt="whatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg"/>](https://github.com/sendilkumarmv/sendilkumarmv/blob/main/whatsapp/card.jpeg)
  
 </div>
+
 
 <div align="right">
  
