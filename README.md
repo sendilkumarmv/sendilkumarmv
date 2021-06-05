@@ -80,21 +80,22 @@ __GitHub__
 __Major Clients__
 
 <div>
- <table>
+ <table style="border:"0px">
   <tr>
-   <td><img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/schwab.png" width="100px" height="100px" /></td>
-   <td><img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/philips.png"  width="100px" height="100px" /></td>
+   <td><img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/schwab.png" width="50px" height="50px" /></td>
+   <td><img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/philips.png"  width="50px" height="50px" /></td>
    <td><img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/aicpa.jpg" width="200px" height="75px" /></td>
    <td><img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/viacom.png" width="350px" height="100px" /></td>
   </tr>
  </table>
-
- <img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/iPSL.png" width="273px" height="52px" />
- <img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/danskebank.png" width="273px" height="52px" />
- <img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/ecc.png" width="273px" height="52px" />
- <img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/santander.png" width="273px" height="52px" />
- 
-  
+<table>
+ <tr>
+ <td><img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/iPSL.png" width="200px" height="52px" /></td>
+ <td><img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/danskebank.png" width="200px" height="50px" /></td>
+ <td><img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/ecc.png" width="273px" height="52px" /></td>
+ <td><img src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/clients/santander.png" width="273px" height="52px" /></td>
+ </tr>
+ </table>
 </div>
 
 ---
