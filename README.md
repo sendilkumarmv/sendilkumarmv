@@ -1,14 +1,30 @@
-# Hi! I am Sendilkumar #
-A multi-faceted professionl accustomed with proven technical skills; targeting senior-level opportunities in Technical Architect/Technical Manager with an orgranization of high repute
+## SENDIL KUMAR
 
+<P>A multi-faceted professionl accustomed with proven technical skills; targeting senior-level opportunities in Technical Architect/Technical Manager with an orgranization of high repute</P>
 
+## PROFILE SUMMARY
+## CORE COMPETENCIES
+## TECHNICAL SKILLS
 
------------------------------------------------------------------------------------------------------------------------------------
+| Skill            |                                        |
+|------------------|----------------------------------------|
+| .NET             | ASP.NET MVC, WebApi, ASP.NET Core, C#  |
+| IDE              | Visual Studio 2019, Visual Studio Code |
+| DataBase         | Microsoft Sql Server 2014, MySql       |
+| NoSql            | MongoDb, Raven                         |
+| OpenAPI          | Swagger                                |
+| Client Framework | Angular, JavaScript, CSS, HTML5        |
+| Build & DevOps   | BitBucket, Bamboo, Git, Github, GitActions, Azure DevOps |
+| eCommerce        | Shopify, Google Marketting API, FaceBook Marketting API, Magenoto |
+| Web Content      | Wordpress |
+| Cloud            | Azure, Pivotal Cloud Fountry |
+| Other            | Splunk, IIS, WireMock |
 
-__Work Experience__
+## SOFT SKILLS
+## CAREER TIMELINE
+## WORK EXPERIENCE
 
 <div>
-
 <table>
  <tr>
  <td><img  alt="mphasis" src="https://github.com/sendilkumarmv/sendilkumarmv/blob/main/company/tr.jpg" width="150px" height="80px"/></td>
@@ -32,29 +48,13 @@ __Work Experience__
   <td>Since 2018</td>
  </tr>
 </table>
-
 </div>
 
-__Education__
 
+## EDUCATION
 - __Master of Computer Applications,__ 1997-2000. National Engineering College, Tamilnadu.
 - __Bachelor of Science in Physics,__ 1994-1997, Sivanthi Aditanar College, Tamilnadu.
 
-__Tools & Softwares__
-
-| Skill            |                                        |
-|------------------|----------------------------------------|
-| .NET             | ASP.NET MVC, WebApi, ASP.NET Core, C#  |
-| IDE              | Visual Studio 2019, Visual Studio Code |
-| DataBase         | Microsoft Sql Server 2014, MySql       |
-| NoSql            | MongoDb, Raven                         |
-| OpenAPI          | Swagger                                |
-| Client Framework | Angular, JavaScript, CSS, HTML5        |
-| Build & DevOps   | BitBucket, Bamboo, Git, Github, GitActions, Azure DevOps |
-| eCommerce        | Shopify, Google Marketting API, FaceBook Marketting API, Magenoto |
-| Web Content      | Wordpress |
-| Cloud            | Azure, Pivotal Cloud Fountry |
-| Other            | Splunk, IIS, WireMock |
 
 __GitHub__
 
