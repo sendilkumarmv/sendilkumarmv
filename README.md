@@ -27,8 +27,8 @@ __Work Experience__
  <tr>
   <td>2005 - 2007</td>
   <td>2007 - 2017</td>
-  <td>2017 - 2018</td>
   <td>2017 - 2017</td>
+  <td>2017 - 2018</td>
   <td>Since 2018</td>
  </tr>
 </table>
