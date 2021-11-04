@@ -54,7 +54,7 @@ __Tools & Softwares__
 | eCommerce        | Shopify, Google Marketting API, FaceBook Marketting API, Magenoto |
 | Web Content      | Wordpress |
 | Cloud            | Azure, Pivotal Cloud Fountry |
-| Other            | Splunk, IIS, WireMock |
+| Other            | Splunk, IIS, WireMock | 
 
 __GitHub__
 
