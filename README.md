@@ -2,7 +2,6 @@
 A multi-faceted professionl accustomed with proven technical skills; targeting senior-level opportunities in Technical Architect/Technical Manager with an orgranization of high repute
 
 
-
 -----------------------------------------------------------------------------------------------------------------------------------
 
 __Work Experience__
