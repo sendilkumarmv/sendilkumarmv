@@ -117,7 +117,6 @@ __Major Clients__
  
 </div>
 
-
 <div align="right">
  
 ![ViewCount](https://views.whatilearened.today/views/github/sendilkumarmv/sendilkumarmv.svg)
